@@ -1,3 +1,6 @@
+---
+---
+
 # The importance of written communication in tech 
 
 ![cover](cover_6.png)
