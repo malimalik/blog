@@ -13,15 +13,15 @@ P.S. This post was inspired by one of the many experiences I had at Google.
 
 ## The Impact of Honest feedback
 
-While I was working at Google, my tech lead went out of his way to "roast" me on my poorly written documentation, which was a stinging but an invaluable lesson because it taught me a lot.
+While I was working at Google, my tech lead went out of his way to "roast" me on my poorly written documentation, which was a stinging but invaluable lesson.
 
-It started with a lengthy, 15-page design document I sent for review to one of the smartest engineers I have ever worked with. The document was accurate technically but unorganized and messy. Thirty minutes later, I got pinged by that same engineer and he offered to give me qualitative feedback on my work.
+It started with a lengthy, 15-page design document I sent for review to one of the smartest engineers I have ever worked with. The document was technically accurate but unorganized and messy. Thirty minutes later, I got pinged by that same engineer and he offered to give me qualitative feedback on my work.
 
 Though I knew he was going to go hard on me, I only found out the shortcomings of my design doc during the meeting. Comparing my design docs to his, the difference was night and day. His design documents were extremely elegant, detailed and concise even though they were about complicated stuff. I am sure if you have ever read bad documentation, you know that it just reads like a wall of text. This was the opposite.
 
 Having someone experienced provide honest feedback is a blessing, as it's easy to overlook flaws in our work when no one points them out. This is one of the reasons why I admired this engineer so much. At Google, people are really nice and they don't want to step on your toes but that can sometimes mean that they won't be honest with you. This engineer, however, cared very deeply and that's why I liked him so much.
 
-I don't want to bore you too much with the details because you probably don't care so I will now share tips with you about what goes into writing good design documents and how you might be able to improve yours.
+I don't want to bore you with too many details, as you might not find them as interesting. Instead, I'll share tips on writing good design documents and how you can improve yours.
 
 ## The Art of Writing Effective Design Documents
 
@@ -41,7 +41,7 @@ When someone starts reading your design document, they might be completely unfam
 
 For example, if you are writing documentation for software that uses microservices, the preamble shouldn't go into low level detail on what each microservice comprises of and how it works. I will demonstrate this with an example in a bit.
 
-You might add more detail later in the document, but understanding the document's goal shouldn't require reading every detail.
+You might add more detail later on in the document, but understanding the document's goal shouldn't require reading every detail.
 
 The balance between detail and conciseness is also crucial for the future maintainers of the codebase who need to grasp your thought process quickly. They don't need to know the exact details and probably don't have a lot of time.
 
@@ -82,7 +82,7 @@ In my case, every time my tech lead would put up a design document for review, I
 
 ## The Unwritten rule
 
-Before I end this post, I do want to mention that written communication is way more important for promotions than people think. As you climb up the ranks, your ability communicate in writing becomes even more critical because your influence on the team increases.
+Before I end this post, I do want to mention that written communication is way more important for promotions than people think. As you climb up the ranks, your ability to communicate in writing becomes even more critical because your influence on the team increases.
 
 ## Closing Thoughts
 
