@@ -54,7 +54,7 @@ In fact, there are times when a reviewer might overlook your work if it's poorly
 
 ### Example of Good Written Communication from NeetCode
 
-I don't have examples of documentation I wrote at Google, but my [Design a YouTube Clone](https://neetcode.io/courses/lessons/design-youtube) design doc is a good example, which is also part of the [Full Stack Development](https://neetcode.io/courses/full-stack-dev/).
+I don't have examples of documentation I wrote at Google, but my [Design a YouTube Clone](https://neetcode.io/courses/lessons/design-youtube) design doc is a good example, which is also part of the [Full Stack Development](https://neetcode.io/courses/full-stack-dev/) course.
 
 The document serves as a quick reference and follows the two points mentioned in the section above. Let's go over them briefly.
 
