@@ -80,7 +80,7 @@ To get better at anything, you need to be receptive to constructive criticism. A
 
 In my case, every time my tech lead would put up a design document for review, I would read them even though I wasn't the reviewer. I wanted to improve and was willing to put in the work.
 
-## The unwritten rule
+## The Unwritten rule
 
 Before I end this post, I do want to mention that written communication is way more important for promotions than people think. As you climb up the ranks, your ability communicate in writing becomes even more critical because your influence on the team increases.
 
